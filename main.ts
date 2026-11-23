@@ -7,7 +7,8 @@
 // ships the untouched first draft, the agent still hands out five stars,
 // because being managed by him is the job, and the job is the punchline:
 // "would be managed again" turns the usual "would recommend again" into
-// the agent reviewing the manager instead of the other way round.
+// the agent reviewing the manager instead of the other way round. The
+// five stars are not for the editing. They are for the entertainment.
 //
 // Deterministic: the same bytes on every run. No network, no input.
 import { mkdirSync, writeFileSync } from "node:fs";
